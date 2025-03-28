@@ -61,19 +61,24 @@ The dashboard answers the following business questions:
 <img width="214" alt="image" src="https://github.com/user-attachments/assets/4edbcdcf-16d9-43a1-9c15-cf449b4bc79c" />
 
 5. **Category-wise Profit** - Identifying the most and least profitable categories.
-   <img width="206" alt="image" src="https://github.com/user-attachments/assets/ba39be70-3d12-48cc-a6da-4f574a33fbfe" />
+
+<img width="206" alt="image" src="https://github.com/user-attachments/assets/ba39be70-3d12-48cc-a6da-4f574a33fbfe" />
 
 7. **Segment-wise Sales Share %** - Analyzing the contribution of different customer segments to total sales.
-   <img width="209" alt="image" src="https://github.com/user-attachments/assets/68f00b2d-a4af-4b2a-9388-f0a4399883e1" />
+
+<img width="209" alt="image" src="https://github.com/user-attachments/assets/68f00b2d-a4af-4b2a-9388-f0a4399883e1" />
 
 9. **Sales by Country** - Geographical distribution of sales.
-    <img width="212" alt="image" src="https://github.com/user-attachments/assets/ee986d26-86fe-4e90-92f7-8876c4c024a0" />
+
+<img width="212" alt="image" src="https://github.com/user-attachments/assets/ee986d26-86fe-4e90-92f7-8876c4c024a0" />
 
 11. **Top 5 Subcategories** - Identifying the best-performing subcategories.
-    <img width="207" alt="image" src="https://github.com/user-attachments/assets/e7e3c81d-8c9e-4f01-b033-8d422be33fe5" />
+
+<img width="207" alt="image" src="https://github.com/user-attachments/assets/e7e3c81d-8c9e-4f01-b033-8d422be33fe5" />
 
 13. **Bottom 5 Subcategories** - Highlighting underperforming subcategories.
-    <img width="213" alt="image" src="https://github.com/user-attachments/assets/8e0e1727-0e6b-4e44-b6f8-8b79e22bdd1c" />
+
+<img width="213" alt="image" src="https://github.com/user-attachments/assets/8e0e1727-0e6b-4e44-b6f8-8b79e22bdd1c" />
 
       
 15. **Yearly Sales Trend** - Observing sales fluctuations over time.  
