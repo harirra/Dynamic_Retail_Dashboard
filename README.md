@@ -51,18 +51,36 @@ This table records information about returned orders, including the order ID and
 
 ---
 
-## **Problem Statements Addressed**  
+## **Problem Statements Solved**  
 The dashboard answers the following business questions:  
-1. **KPIs Tracking** - Displays key performance indicators such as total sales, total profit, quantity, number of orders, and profit margin.  
-2. **Sales and Profit Analysis** - Breakdown of sales and profit patterns.  
-3. **Category-wise Profit** - Identifying the most and least profitable categories.  
-4. **Segment-wise Sales Share %** - Analyzing the contribution of different customer segments to total sales.  
-5. **Sales by Country** - Geographical distribution of sales.  
-6. **Top 5 Subcategories** - Identifying the best-performing subcategories.  
-7. **Bottom 5 Subcategories** - Highlighting underperforming subcategories.  
-8. **Yearly Sales Trend** - Observing sales fluctuations over time.  
+1. **KPIs Tracking** - Displays key performance indicators such as total sales, total profit, quantity, number of orders, and profit margin.
+
+   <img width="626" alt="image" src="https://github.com/user-attachments/assets/86c1dbde-b4d2-40ff-b050-5f0de827b1f5" />
+ 
+3. **Sales and Profit Analysis** - Breakdown of sales and profit patterns.
+<img width="214" alt="image" src="https://github.com/user-attachments/assets/4edbcdcf-16d9-43a1-9c15-cf449b4bc79c" />
+
+5. **Category-wise Profit** - Identifying the most and least profitable categories.
+   <img width="206" alt="image" src="https://github.com/user-attachments/assets/ba39be70-3d12-48cc-a6da-4f574a33fbfe" />
+
+7. **Segment-wise Sales Share %** - Analyzing the contribution of different customer segments to total sales.
+   <img width="209" alt="image" src="https://github.com/user-attachments/assets/68f00b2d-a4af-4b2a-9388-f0a4399883e1" />
+
+9. **Sales by Country** - Geographical distribution of sales.
+    <img width="212" alt="image" src="https://github.com/user-attachments/assets/ee986d26-86fe-4e90-92f7-8876c4c024a0" />
+
+11. **Top 5 Subcategories** - Identifying the best-performing subcategories.
+    <img width="207" alt="image" src="https://github.com/user-attachments/assets/e7e3c81d-8c9e-4f01-b033-8d422be33fe5" />
+
+13. **Bottom 5 Subcategories** - Highlighting underperforming subcategories.
+    <img width="213" alt="image" src="https://github.com/user-attachments/assets/8e0e1727-0e6b-4e44-b6f8-8b79e22bdd1c" />
+
+      
+15. **Yearly Sales Trend** - Observing sales fluctuations over time.  
 
 ---
+## Snapshort of dashboard
+<img width="556" alt="image" src="https://github.com/user-attachments/assets/8504e661-7dbe-4a3f-9c63-907796766a11" />
 
 ## **KPI Table for Unified Analysis**  
 To ensure all KPIs are analyzed together, a **KPI table** has been created:  
